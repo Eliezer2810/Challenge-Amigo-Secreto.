@@ -12,8 +12,8 @@ Sortea un amigo al azar y lo muestra en pantalla.
 
 **🛠️ Tecnologías Utilizadas**
 
-**- HTML5.
+  - HTML5.
   - CSS3.
-  - JavaScript.**
+  - JavaScript.
 
 💡 Creado con ❤️ por **Eliezer Aquino**.
